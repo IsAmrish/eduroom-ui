@@ -5,8 +5,6 @@
 
 Every code patch accepted in taiga codebase is licensed under [AGPL v3.0](http://www.gnu.org/licenses/agpl-3.0.html). You must be careful to not include any code that can not be licensed under this license.
 
-Please read carefully [our license](https://github.com/taigaio/taiga-front/blob/master/LICENSE) and ask us if you have any questions.
-
 Emoji provided free by [Twemoji](https://github.com/twitter/twemoji)
 
 
